@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art space app</string>
+    <string name="scream_title">Scream</string>
+    <string name="edward_artist">Edward Munk</string>
+    <string name="scream_year">(1893)</string>
+    <string name="front_arrow_description">Front arrow</string>
+    <string name="back_arrow_description">Back arrow</string>
+
+</resources>
